@@ -1,0 +1,106 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Hardip Gajera. I am an experienced iOS Engineer and UI Designer with a demonstrated history of working in the industry. Strong media and communication professional with a Bachelor's degree focused in Computer Software Engineering from Red & White Institute Of Engineering & Technology, Surat, Gujarat. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Snibble",
+        "startDate": "2019",
+        "description": "Snibble was designed to enhance your connection with your best friends. Together, you can discover, curate, recommend, share, and watch the world’s best short-form video content. We’ve combined video from leading global sources with next-Gen social features.",
+        "images": [
+          "/images/portfolio/snibble/p1.jpeg",
+          "/images/portfolio/snibble/p2.jpeg",
+          "/images/portfolio/snibble/p3.jpeg"
+        ],
+        "url": "https://apps.apple.com/ca/app/snibble/id1464594506",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain-wordmark",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift-ui"
+          }
+        ]
+      },
+      {
+        "title": "Amaano",
+        "startDate": "2020",
+        "description": "Amaano is one platform to manage your online transactions and social interactions. At Amaano, we combine the wisdom and practice from the traditional payment system with the Digital Age. We think strategically and clear about what our ultimate objectives are. We have accomplished an amazing amount of important work and we are obsessed with following through.",
+        "images": [
+          "/images/portfolio/amaano/p1.jpeg"
+        ],
+        "url": "https://amaano.com/",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain-wordmark",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift-ui"
+          }
+        ]
+      },
+      {
+        "title": "Active Pro",
+        "startDate": "2020",
+        "description": "Active Pro is a progress tracking tool that can be used by anyone looking to advance their skills! -In the Student/Client login the user can communicate with their instructors, log practices and performances, upload videos and pictures, keep a monthly calendar, receive reminders by push notifications, and set goals! -In the Student/Client login the user can communicate with their instructors, log practices and performances, upload videos and pictures, keep a monthly calendar, receive reminders by push notifications, and set goals!",
+        "images": [
+          "/images/portfolio/activepro/p1.jpeg",
+          "/images/portfolio/activepro/p2.jpeg"
+        ],
+        "url": "https://apps.apple.com/us/app/active-pro/id1542343198",
+        "technologies": [
+          {
+            "class": "devicon-swift-plain-wordmark",
+            "name": "Swift"
+          },
+          {
+            "class": "devicon-swift-plain",
+            "name": "Swift-ui"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "XR STUDIO",
+        "title": "Sr. iOS Developer",
+        "years": "09.2021 - present",
+        "mainTech": [
+          "iOS Developer"
+        ],
+        "technologies": [
+          "SwiftUI",
+          "Swift",
+          "StoreKit",
+          "HealthKit",
+          "Core Graphics"
+        ]
+      },
+      {
+        "company": "XR STUDIO",
+        "title": "Jr. iOS Developer",
+        "years": "01.2020 - 09.2021",
+        "mainTech": [
+          "iOS Developer"
+        ],
+        "technologies": [
+          "SwiftUI",
+          "Swift",
+          "UIKit",
+          "ARKit",
+          "XMPP"
+        ]
+      }
+    ]
+  }

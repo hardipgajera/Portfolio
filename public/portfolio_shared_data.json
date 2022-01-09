@@ -1,0 +1,111 @@
+{
+    "basic_info": {
+      "name": "Hardip Gajera",
+      "titles": [ "IOS Engineer", "UI-UX Designer", "Mobile Application Architect" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/hardipgajera",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/_hardipgajera_/",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "SwiftUI",
+          "level": "95"
+        },
+        {
+          "name": "Swift",
+          "level": "95"
+        },
+        {
+          "name": "UIKit",
+          "level": "80"
+        },
+        {
+          "name": "ARKit",
+          "level": "90"
+        },
+        {
+          "name": "WatchKit",
+          "level": "70"
+        },
+        {
+          "name": "CoreML",
+          "level": "75"
+        },
+        {
+          "name": "CallKit",
+          "level": "85"
+        },
+        {
+          "name": "CloudKit",
+          "level": "65"
+        },
+        {
+          "name": "XCTest",
+          "level": "60"
+        },
+        {
+          "name": "Combine",
+          "level": "95"
+        },
+        {
+          "name": "Appkit",
+          "level": "95"
+        },
+        {
+          "name": "MessageKit",
+          "level": "80"
+        },
+        {
+          "name": "SceneKit",
+          "level": "90"
+        },
+        {
+          "name": "SpriteKit",
+          "level": "70"
+        },
+        {
+          "name": "StoreKit",
+          "level": "75"
+        },
+        {
+          "name": "HealthKit",
+          "level": "85"
+        },
+        {
+          "name": "Core Data",
+          "level": "65"
+        },
+        {
+          "name": "Core Graphics",
+          "level": "60"
+        },
+        {
+          "name": "Core Location",
+          "level": "85"
+        },
+        {
+          "name": "Core Motion",
+          "level": "65"
+        },
+        {
+          "name": "AVFoundation",
+          "level": "60"
+        },
+        {
+          "name": "Unit Test",
+          "level": "60"
+        }
+      ]
+    }
+  }
